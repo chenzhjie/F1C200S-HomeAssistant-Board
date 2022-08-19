@@ -1,0 +1,1 @@
+# F1C200S-HomeAssistant-Board
