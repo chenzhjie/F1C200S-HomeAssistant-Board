@@ -21,7 +21,7 @@ B4012AP422-003,,"MIC1, ",easyeda2kicad:MIC-TH_BD4.0-P1.40-D0.3-L,1,C233791
 47K,Resistor,"R21, ",0402,1,C144757
 2.21K,Resistor,"R30, ",0402,1,C25880
 TS-1101-C-W,,"SW1, ",easyeda2kicad:SW-SMD_L6.0-W3.3-LS8.0,1,TRUE
-F1C200S,,"U1, ",easyeda2kicad:QFN-88_L10.0-W10.0-P0.40-BL-EP6.75,1,https://item.taobao.com/item.htm?spm=a230r.1.14.26.7d235567GNJtmU&id=677062030948&ns=1&abbucket=9#detail
+F1C200S,,"U1, ",easyeda2kicad:QFN-88_L10.0-W10.0-P0.40-BL-EP6.75,1,https://item.taobao.com/item.htm?spm=a230r.1.14.32.5c3755671K3aD4&id=679345767279&ns=1&abbucket=9#detail
 EA3036C,,"U2, ",easyeda2kicad:WQFN-20_L3.0-W3.0-P0.40-BL-EP,1,C570857
 XC6206P302MR,,"U3, ",easyeda2kicad:SOT-23-3L_L2.9-W1.6-P1.90-LS2.8-BL,1,C2904833
 GT-USB-7010ASV,,"U4, ",easyeda2kicad:USB-C-SMD_G-SWITCH_GT-USB-7010ASV,1,TRUE
